@@ -177,6 +177,10 @@ Tạo html
 
 
 
+
+
+
+
 sơ đồ file 
 camdo/
 ├── templates/
@@ -184,6 +188,34 @@ camdo/
 │       ├── home.html
 ├── views.py
 ├── urls.py
+
+
+
+
+
+
+
+
+
+
+
+<img width="1895" height="591" alt="image" src="https://github.com/user-attachments/assets/21b9d75b-394e-4d9e-b97c-71bb73214775" />
+
+
+
+
+
+
+
+
+
+
+
+<img width="1681" height="1040" alt="image" src="https://github.com/user-attachments/assets/30a03100-ed55-4e08-b7e3-9b8d8111b77a" />
+
+
+
+
 
 
 
