@@ -246,3 +246,4 @@ camdo/
 
 
 
+<img width="1848" height="568" alt="image" src="https://github.com/user-attachments/assets/d0ae2530-f0aa-4ad0-aea6-29ea50e6a4ad" />
