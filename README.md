@@ -126,3 +126,64 @@ SỬA models.py
 
 
 <img width="1897" height="892" alt="image" src="https://github.com/user-attachments/assets/4691461f-9ca0-41a9-ab69-828788e1ee37" />
+
+
+
+
+
+
+
+thêm views.py và urls.py
+
+
+
+
+
+
+<img width="980" height="887" alt="image" src="https://github.com/user-attachments/assets/f78cca6f-09e8-4ebe-ab52-808b293ff435" />
+
+
+
+
+.
+
+SỬA config/urls.py
+
+
+
+
+
+
+
+<img width="1029" height="516" alt="image" src="https://github.com/user-attachments/assets/4f64e7ed-7531-4d3b-a022-4a81e4b68f25" />
+
+
+
+
+
+
+
+Tạo html
+
+
+
+
+
+<img width="1020" height="719" alt="image" src="https://github.com/user-attachments/assets/dcab3f5d-80b0-46b1-baaa-10c633c3850e" />
+
+
+
+
+
+
+
+sơ đồ file 
+camdo/
+├── templates/
+│   └── camdo/
+│       ├── home.html
+├── views.py
+├── urls.py
+
+
+
