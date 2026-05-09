@@ -109,4 +109,20 @@ SỬA models.py
 
 
 
+<img width="1102" height="645" alt="image" src="https://github.com/user-attachments/assets/071f95b1-ab96-423e-9e6d-c737bf382d5e" />
 
+
+
+
+
+
+
+<img width="1800" height="950" alt="image" src="https://github.com/user-attachments/assets/b5c32fc9-a13a-4e71-bc5a-e52521b7b90c" />
+
+
+
+
+
+
+
+<img width="1897" height="892" alt="image" src="https://github.com/user-attachments/assets/4691461f-9ca0-41a9-ab69-828788e1ee37" />
