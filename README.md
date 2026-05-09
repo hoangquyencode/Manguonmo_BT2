@@ -3,6 +3,16 @@
 
 
 
+
+<img width="647" height="838" alt="image" src="https://github.com/user-attachments/assets/a307ed84-1867-44d7-8ebf-78328f6c89e3" />
+
+
+
+
+
+
+
+
 <img width="1102" height="703" alt="image" src="https://github.com/user-attachments/assets/c6460265-2387-41eb-be1f-ded285d04448" />
 
 
@@ -50,6 +60,22 @@ CẤU HÌNH MARIA DB
 
 
 <img width="1781" height="1048" alt="image" src="https://github.com/user-attachments/assets/bca0bf3e-650c-404f-8e38-5859fc49eff9" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="980" alt="image" src="https://github.com/user-attachments/assets/c207b45b-54b7-4985-8528-b58df6aad670" />
+
 
 
 
